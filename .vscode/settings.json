@@ -1,0 +1,11 @@
+{
+    "files.watcherExclude": {
+        "**/.vscode/**": true,
+        "**/dist/**": true
+    },
+    "files.exclude": {
+        "**/.vscode/**": true,
+        "**/dist/**": true,
+        "**/node_modules/**": true
+    }
+}
